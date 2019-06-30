@@ -2,7 +2,7 @@
 
 React test app, this one connects to the OpenWeatherMap API to get either a 5 day or a current day forecast for a given city.
 
-Utilises [OpenWeatherMap API](https://openweathermap.org/) for weather data and
+Utilises [OpenWeatherMap API](https://openweathermap.org/) for weather data
 
 #### Install
 
