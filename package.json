@@ -14,7 +14,7 @@
   "author": "Sinan <sinan.taylan@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.9.1",
+    "axios": "^0.21.1",
     "css-loader": "^0.23.1",
     "image-loader": "0.0.1",
     "react": "^0.14.7",
